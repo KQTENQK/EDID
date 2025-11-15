@@ -17,7 +17,7 @@ Program to edit EDID serials and manufacture dates.
 
 
 
-``` py EdidEditor.py input.bin output.bin \[options] ```
+``` py EdidEditor.py input.bin output.bin [options] ```
 
 
 
