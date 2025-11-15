@@ -1,4 +1,4 @@
-\# EDID binaries
+# EDID binaries
 
 A set of binaries were originally got from https://github.com/linuxhw/EDID.
 
@@ -9,7 +9,7 @@ A set of binaries were originally got from https://github.com/linuxhw/EDID.
 
 
 
-\# EDID editor (EdidEditor.py)
+# EDID editor (EdidEditor.py)
 
 
 
@@ -21,7 +21,7 @@ Program to edit EDID serials and manufacture dates.
 
 
 
-\### Options:
+### Options:
 
 
 
@@ -41,7 +41,7 @@ Program to edit EDID serials and manufacture dates.
 
 
 
-\## Example:
+## Example:
 
 
 
@@ -49,7 +49,7 @@ Program to edit EDID serials and manufacture dates.
 
 
 
-\# ToHex.py
+# ToHex.py
 
 
 
